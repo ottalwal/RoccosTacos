@@ -115,7 +115,7 @@ nav ul li a:hover {
         right: 0;
         flex-direction: column;
         text-align: center;
-        background: black;
+        background: #f28e1c;
         gap: 0;
         overflow: hidden;
     }
@@ -134,7 +134,6 @@ nav ul li a:hover {
 /**************************************/
 
 /* Menu */
-
 
 .headingfood {
     text-align: center;
